@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+@font-face {
+    font-family: main;
+    src: url('./fonts/Exo2-SemiBold.ttf');
+  }
